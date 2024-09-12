@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning c++
 - 📫 How to reach me etienne.dumai@gmail.com
 - 😄 Pronouns: he/him
+- 📖 Portfolio : https://etiennedumai.github.io/Portfolio/index.html
 
 
 <!---
