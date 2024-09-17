@@ -7,7 +7,7 @@
 
 # Setup : 
 Laptop HP EliteBook 840 G8 (i5 1145G7 16Go RAM) \
-Personnal Desktop (I7 11700KF 32Go RAM RTX4070)
+Personnal Desktop (i7 11700KF 32Go RAM RTX 4070)
 # IDE
 ![VS-Code](https://skillicons.dev/icons?i=vscode)
 <!---
