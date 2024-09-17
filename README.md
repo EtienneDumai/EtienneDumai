@@ -9,7 +9,7 @@
 Laptop HP EliteBook 840 G8 (i5 1145G7 16Go RAM) \
 Personnal Desktop (I7 11700KF 32Go RAM RTX4070)
 # IDE
-!(https://skillicons.dev/icons?i=all)
+! (https://skillicons.dev/icons?i=all)
 <!---
 EtienneDumai/EtienneDumai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
