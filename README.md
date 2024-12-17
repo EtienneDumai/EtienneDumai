@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EtienneDumai
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C++, Javascript, PHP, SQL / PLSQL
+- 🌱 I’m currently learning C++, Javascript, PHP, SQL / PLSQL, Java
 - 📫 How to reach me etienne.dumai@gmail.com
 - 😄 Pronouns: he/him
 - 📖 Portfolio : https://etiennedumai.github.io/Portfolio
