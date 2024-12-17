@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++, Javascript, PHP, SQL / PLSQL
 - 📫 How to reach me etienne.dumai@gmail.com
 - 😄 Pronouns: he/him
-- 📖 Portfolio : https://etiennedumai.github.io/Portfolio/index.html
+- 📖 Portfolio : https://etiennedumai.github.io/Portfolio
 
 # Setup : 
 Laptop HP EliteBook 840 G8 (i5 1145G7 16Go RAM) \
