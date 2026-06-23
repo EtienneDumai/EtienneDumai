@@ -9,9 +9,9 @@ Passionné par le C++ bas niveau, l'embarqué et la simulation avionique.
 
 🏍️ **Monitoring RPM STM32** — C, microcontrôleur STM32, sécurité embarquée (en cours)
 
-🖼️ **[Lecteur de diaporama](https://github.com/EtienneDumai/avionics)** — C++, Qt, SQLite, gestion d'états IHM
+🖼️ **[Lecteur de diaporama](https://github.com/FranzouGame/SAE1.01-LecteurDiaporama)** — C++, Qt, SQLite, gestion d'états IHM
 
-🗺️ **[Recherche de plus court chemin](https://github.com/EtienneDumai/S2.02-Pathfinding-algorithms) ** — Python, algorithmes Dijkstra & Bellman-Ford, visualisation graphique sur la ville de Bayonne
+🗺️ **[Recherche de plus court chemin](https://github.com/EtienneDumai/S2.02-Pathfinding-algorithms)** — Python, algorithmes Dijkstra & Bellman-Ford, visualisation graphique sur la ville de Bayonne
 
 🌿 **[APE Jules Ferry](https://github.com/ApeJulesFerryAnglet/SAE-5.01-APE-Jules-Ferry)** — Application web de gestion des bénévoles, Angular, TailwindCSS, Laravel, Docker, PostgreSQL — [déployée en production](https://apejulesferry-anglet.fr/)
 
